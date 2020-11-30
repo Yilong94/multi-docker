@@ -25,6 +25,7 @@
     {
       "name": "nginx",
       "image": "yilong9407/multi-nginx",
+      "hostname": "nginx",
       "essential": true,
       "portMappings": [
         {
